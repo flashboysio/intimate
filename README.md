@@ -1,4 +1,4 @@
 Build requirements:
-openzeppelin-solidity
-truffle
+- openzeppelin-solidity
+- truffle
 
